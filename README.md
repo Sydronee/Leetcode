@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 ## Greedy
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
