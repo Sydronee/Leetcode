@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sydronee/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/Sydronee/Leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/Sydronee/Leetcode/tree/master/1660-thousand-separator) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sydronee/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 ## Simulation
 |  |
