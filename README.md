@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sydronee/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [1156-occurrences-after-bigram](https://github.com/Sydronee/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sydronee/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Simulation
 |  |
