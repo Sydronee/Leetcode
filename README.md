@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Sydronee/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1156-occurrences-after-bigram](https://github.com/Sydronee/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sydronee/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 ## Simulation
 |  |
 | ------- |
