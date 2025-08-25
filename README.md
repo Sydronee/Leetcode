@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1547-destination-city](https://github.com/Sydronee/Leetcode/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/Sydronee/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sydronee/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/Sydronee/Leetcode/tree/master/1542-consecutive-characters) |
+| [1547-destination-city](https://github.com/Sydronee/Leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/Sydronee/Leetcode/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Sydronee/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1547-destination-city](https://github.com/Sydronee/Leetcode/tree/master/1547-destination-city) |
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
