@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Sydronee/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sydronee/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sydronee/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Sydronee/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
