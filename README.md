@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1547-destination-city](https://github.com/Sydronee/Leetcode/tree/master/1547-destination-city) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sydronee/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
