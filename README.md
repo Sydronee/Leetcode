@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Sydronee/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Enumeration
+|  |
+| ------- |
+| [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
