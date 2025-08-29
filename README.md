@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/Sydronee/Leetcode/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Sydronee/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sydronee/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
+| [1812-reformat-phone-number](https://github.com/Sydronee/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sydronee/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sydronee/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
