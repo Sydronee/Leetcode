@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sydronee/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sydronee/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sydronee/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
