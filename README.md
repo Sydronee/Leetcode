@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sydronee/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sydronee/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
+| [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sydronee/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sydronee/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
