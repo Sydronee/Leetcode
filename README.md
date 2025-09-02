@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/Sydronee/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sydronee/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-reformat-phone-number](https://github.com/Sydronee/Leetcode/tree/master/1812-reformat-phone-number) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sydronee/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sydronee/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
