@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sydronee/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0851-goat-latin](https://github.com/Sydronee/Leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1156-occurrences-after-bigram](https://github.com/Sydronee/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1472-increasing-decreasing-string](https://github.com/Sydronee/Leetcode/tree/master/1472-increasing-decreasing-string) |
