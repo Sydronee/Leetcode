@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sydronee/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sydronee/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sydronee/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
