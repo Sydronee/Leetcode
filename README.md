@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sydronee/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sydronee/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sydronee/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
