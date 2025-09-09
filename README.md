@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sydronee/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/Sydronee/Leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1156-occurrences-after-bigram](https://github.com/Sydronee/Leetcode/tree/master/1156-occurrences-after-bigram) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/Sydronee/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sydronee/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/Sydronee/Leetcode/tree/master/1542-consecutive-characters) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/Sydronee/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
