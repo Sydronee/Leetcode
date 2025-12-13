@@ -1,17 +1,17 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        frequency = Counter(s).items() 
-        count = 0
-        odd_found = False
+        freq=Counter(s).most_common() 
+        freq=[j for i,j in freq]
+        seen=False
+        count=0
 
-        for char, freq in frequency:
-            if freq % 2 == 0:
-                count += freq
-            else:
-                if not odd_found:
-                    count += freq
-                    odd_found = True
+        for i in freq:
+            if i%2==0:
+                count+=i
+            elif i%2==1:
+                if seen==False:
+                    seen=True
+                    count+=i
                 else:
-                    count += freq - 1
-        
-        return count
+                    count+=i-1
+        return count 
