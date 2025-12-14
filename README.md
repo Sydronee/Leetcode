@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sydronee/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
