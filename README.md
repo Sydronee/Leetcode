@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sydronee/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sydronee/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
