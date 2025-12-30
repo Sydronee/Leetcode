@@ -1,4 +1,3 @@
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
-        a=list(Counter(arr).values())
-        return True if len(a)==len(set(a)) else False
+        return True if len(list(Counter(arr).values()))==len(set(list(Counter(arr).values()))) else False
