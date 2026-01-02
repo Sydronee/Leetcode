@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sydronee/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/1319-unique-number-of-occurrences) |
