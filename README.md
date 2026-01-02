@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sydronee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sydronee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sydronee/Leetcode/tree/master/0046-permutations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
