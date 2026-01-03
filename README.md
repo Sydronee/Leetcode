@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sydronee/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
 | ------- |
