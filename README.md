@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Sydronee/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1284-four-divisors](https://github.com/Sydronee/Leetcode/tree/master/1284-four-divisors) |
 | [1319-unique-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sydronee/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Sydronee/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1284-four-divisors](https://github.com/Sydronee/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sydronee/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
