@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sydronee/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sydronee/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sydronee/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sydronee/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sydronee/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Sliding Window
 |  |
