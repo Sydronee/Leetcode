@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Sydronee/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sydronee/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sydronee/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sydronee/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sydronee/Leetcode/tree/master/1651-shuffle-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Sydronee/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sydronee/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sydronee/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sydronee/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
