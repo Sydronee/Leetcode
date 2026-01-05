@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sydronee/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Sydronee/Leetcode/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sydronee/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sydronee/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Sydronee/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sydronee/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sydronee/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sydronee/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sydronee/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
