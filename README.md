@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
+| [0598-range-addition-ii](https://github.com/Sydronee/Leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sydronee/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Sydronee/Leetcode/tree/master/0792-binary-search) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sydronee/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
+| [0598-range-addition-ii](https://github.com/Sydronee/Leetcode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Sydronee/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Sydronee/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sydronee/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
