@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sydronee/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Sydronee/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sydronee/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Sydronee/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sydronee/Leetcode/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sydronee/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sydronee/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Sydronee/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sydronee/Leetcode/tree/master/0263-ugly-number) |
