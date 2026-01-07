@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sydronee/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sydronee/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Sydronee/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Sydronee/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sydronee/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Sydronee/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sydronee/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sydronee/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Number Theory
