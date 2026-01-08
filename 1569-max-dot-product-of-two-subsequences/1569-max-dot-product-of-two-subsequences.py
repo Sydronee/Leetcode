@@ -1,0 +1,11 @@
+class Solution:
+    def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
+        m=len(nums1)
+        n=len(nums2)
+        dp=[[float("-inf")]*(n+1) for _ in range(m+1)]
+
+        for i in range(m):
+            for j in range(n):
+                current=nums1[i]*nums2[j]
+                dp[i+1][j+1]=max(current, current+dp[i][j], dp[i][j+1],dp[i+1][j])
+        return dp[m][n]
