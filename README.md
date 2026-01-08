@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sydronee/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sydronee/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sydronee/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sydronee/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sydronee/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sydronee/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
