@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Sydronee/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Database
 |  |
 | ------- |
@@ -370,12 +372,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
