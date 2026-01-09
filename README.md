@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sydronee/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sydronee/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1472-increasing-decreasing-string](https://github.com/Sydronee/Leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Database
 |  |
 | ------- |
@@ -373,14 +375,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
