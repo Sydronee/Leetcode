@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Sydronee/Leetcode/tree/master/1284-four-divisors) |
 | [1319-unique-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sydronee/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sydronee/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sydronee/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Sydronee/Leetcode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Sydronee/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Sydronee/Leetcode/tree/master/1284-four-divisors) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sydronee/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sydronee/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sydronee/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sydronee/Leetcode/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Sydronee/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
