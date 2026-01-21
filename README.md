@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sydronee/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sydronee/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Sydronee/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sydronee/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
 |  |
 | ------- |
