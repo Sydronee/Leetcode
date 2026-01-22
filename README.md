@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sydronee/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Sydronee/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sydronee/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sydronee/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sydronee/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sydronee/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Sydronee/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sydronee/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
