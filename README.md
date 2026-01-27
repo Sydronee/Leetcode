@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sydronee/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sydronee/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
 | ------- |
@@ -450,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sydronee/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sydronee/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
