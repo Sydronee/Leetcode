@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sydronee/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sydronee/Leetcode/tree/master/0200-number-of-islands) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sydronee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sydronee/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sydronee/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sydronee/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sydronee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sydronee/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sydronee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sydronee/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Sydronee/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Sydronee/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
@@ -459,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
