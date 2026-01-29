@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sydronee/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sydronee/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Sydronee/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sydronee/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sydronee/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sydronee/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sydronee/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/Sydronee/Leetcode/tree/master/2401-count-asterisks) |
 | [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sydronee/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -461,10 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Sydronee/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
