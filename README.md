@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Sydronee/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Sydronee/Leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sydronee/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sydronee/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sydronee/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sydronee/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sydronee/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Sydronee/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
