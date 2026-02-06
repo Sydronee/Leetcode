@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sydronee/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Sydronee/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Sydronee/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Sydronee/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sydronee/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sydronee/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sydronee/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Sydronee/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Number Theory
 |  |
 | ------- |
