@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/Sydronee/Leetcode/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Sydronee/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sydronee/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sydronee/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sydronee/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-reformat-phone-number](https://github.com/Sydronee/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sydronee/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sydronee/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Counting Sort
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sydronee/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sydronee/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Sydronee/Leetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sydronee/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Sydronee/Leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Linked List
 |  |
