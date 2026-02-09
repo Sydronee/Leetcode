@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sydronee/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sydronee/Leetcode/tree/master/0605-can-place-flowers) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sydronee/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,9 +455,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sydronee/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sydronee/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -496,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sydronee/Leetcode/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
