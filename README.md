@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sydronee/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sydronee/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sydronee/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Sydronee/Leetcode/tree/master/0401-binary-watch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sydronee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sydronee/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sydronee/Leetcode/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/Sydronee/Leetcode/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 |  |
 | ------- |
