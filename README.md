@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sydronee/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sydronee/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Sydronee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sydronee/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0851-goat-latin](https://github.com/Sydronee/Leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sydronee/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sydronee/Leetcode/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Sydronee/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Sydronee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sydronee/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
