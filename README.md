@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Sydronee/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sydronee/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sydronee/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sydronee/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sydronee/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sydronee/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Sydronee/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/Sydronee/Leetcode/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sydronee/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sydronee/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sydronee/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sydronee/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sydronee/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sydronee/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Sydronee/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sydronee/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/Sydronee/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sydronee/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
