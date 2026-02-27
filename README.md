@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sydronee/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Sydronee/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sydronee/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Sydronee/Leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sydronee/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4056-longest-balanced-substring-ii](https://github.com/Sydronee/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Simulation
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sydronee/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sydronee/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Database
 |  |
 | ------- |
@@ -525,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
