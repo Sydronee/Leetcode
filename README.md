@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sydronee/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-reformat-phone-number](https://github.com/Sydronee/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sydronee/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sydronee/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sydronee/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
