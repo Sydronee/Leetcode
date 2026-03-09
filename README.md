@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sydronee/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sydronee/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sydronee/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Sydronee/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Sydronee/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Matrix
 |  |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Sydronee/Leetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sydronee/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Sydronee/Leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Sydronee/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Linked List
 |  |
 | ------- |
