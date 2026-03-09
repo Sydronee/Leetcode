@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sydronee/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sydronee/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sydronee/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Sydronee/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Sydronee/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sydronee/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sydronee/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sydronee/Leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/Sydronee/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sydronee/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sydronee/Leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Sydronee/Leetcode/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/Sydronee/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sydronee/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
