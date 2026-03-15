@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sydronee/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sydronee/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Sydronee/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1728-fancy-sequence](https://github.com/Sydronee/Leetcode/tree/master/1728-fancy-sequence) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sydronee/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Sydronee/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sydronee/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -554,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+## Design
+|  |
+| ------- |
+| [1728-fancy-sequence](https://github.com/Sydronee/Leetcode/tree/master/1728-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1728-fancy-sequence](https://github.com/Sydronee/Leetcode/tree/master/1728-fancy-sequence) |
 <!---LeetCode Topics End-->
