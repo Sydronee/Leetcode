@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sydronee/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sydronee/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Sydronee/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sydronee/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sydronee/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sydronee/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Sydronee/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sydronee/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sydronee/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sydronee/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1970-sorting-the-sentence](https://github.com/Sydronee/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sydronee/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sydronee/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Sydronee/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Sliding Window
