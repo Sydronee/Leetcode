@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1944-truncate-sentence](https://github.com/Sydronee/Leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Sydronee/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sydronee/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sydronee/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Sydronee/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sydronee/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Sydronee/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sydronee/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Sliding Window
