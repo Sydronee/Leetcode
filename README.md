@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sydronee/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3778-transform-array-by-parity](https://github.com/Sydronee/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sydronee/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Sydronee/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Sydronee/Leetcode/tree/master/2634-minimum-common-value) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sydronee/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sydronee/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sydronee/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4056-longest-balanced-substring-ii](https://github.com/Sydronee/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Counting
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2528-number-of-valid-clock-times](https://github.com/Sydronee/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Stack
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Sydronee/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sydronee/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Sydronee/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/Sydronee/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Matrix
 |  |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sydronee/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Sliding Window
 |  |
 | ------- |
