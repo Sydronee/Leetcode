@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sydronee/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sydronee/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Sydronee/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sydronee/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sydronee/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Sydronee/Leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sydronee/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Sydronee/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sydronee/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sydronee/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sydronee/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sydronee/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sydronee/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sydronee/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sydronee/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sydronee/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Sydronee/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sydronee/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sydronee/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sydronee/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Sydronee/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sydronee/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sydronee/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sydronee/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Sliding Window
 |  |
