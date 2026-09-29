@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sydronee/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sydronee/Leetcode/tree/master/0547-number-of-provinces) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Sydronee/Leetcode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
